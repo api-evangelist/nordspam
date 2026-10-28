@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-NordSpam is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://nordspam.com/
+The NordSpam Project provides a DNS-based blacklist (DNSBL) service that helps prevent unwanted spam by maintaining reputation databases of domains and IP addresses. Users can query the service via DNS lookups to determine if an IP or domain is listed. The project offers public usage documentation, policy information, and support contact details, aiming to improve email security and reduce spam traffic across the internet.
+
+**Areas:** Company · Spam · DNSBL · Security · Email · Reputation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nordspam.com/)
+- [Documentation](https://www.nordspam.com/usage/)
+- [Support](https://www.nordspam.com/contact/)
+- [Terms of service](https://www.nordspam.com/policy/)
+- [GitHub](https://github.com/NordSpam)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/nordspam/](https://apis.io/providers/nordspam/).
